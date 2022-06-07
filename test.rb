@@ -1,0 +1,1 @@
+puts "Hello from test2.rb"
